@@ -9,6 +9,35 @@ Here are some ideas to get you started:
 - 📫 How to reach me: adham.3llam@gmail.com
 - 😄 Pronouns: he/him
 
+<!-- Problem solving -->
+
+## My Competitive Programming Profiles
+
+<div align="center" width=100%>
+	<a href="https://codeforces.com/profile/Adham.3llam" target="_blank">
+		<img src="./images/codeforces.png" alt="Codeforces"/>
+	</a>
+	&emsp;
+	<a href="https://leetcode.com/Adham_3llam/" target="_blank">
+		<img src="./images/leetcode.png" alt="LeetCode"/>
+	</a>
+	&emsp;
+	<a href="https://www.hackerrank.com/adham32003200" target="_blank">
+		<img src="./images/hackerrank.png" alt="hackerrank"/>
+	</a>
+	&emsp;
+	<a href="https://www.spoj.com/users/ad7am_3llam/" target="_blank">
+		<img src="./images/spoj.png" width="46" alt="spoj"/>
+	</a>
+	&emsp;
+	<a href="https://uhunt.onlinejudge.org/id/1389257" target="_blank">
+		<img src="./images/uva.png" width="43" alt="UVA"/>
+	</a>
+	&emsp;
+</div>
+
+<br>
+
 ## Contact
 
 <p align="center">
