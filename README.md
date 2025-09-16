@@ -161,3 +161,46 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://streak-stats.demolab.com?user=Ad7amstein&theme=highcontrast" alt="GitHub Streak" /</p>
 
 </details>
+
+<!-- Contributions Stats-->
+<details><summary><h3>💻 Contribution Stats</h3></summary>
+
+---
+
+<p align="center">
+	<img alt="Ad7amstein's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ad7amstein&show_icons=true&count_private=true&locale=en&theme=dark&layout=compact" height="230px"/>
+<br/>
+</p>
+</details>
+
+<!-- Contributions Graph-->
+<details><summary><h3>📈 Contribution Graph</h3></summary>
+
+---
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ad7amstein&theme=tokyo-night&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=Ad7amstein&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="Activity Graph" />
+<br/>
+</div>
+
+</details>
+
+<!-- Top Languages -->
+<details><summary><h3>📊 Top Languages</h3></summary>
+
+---
+
+<p align="center">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ad7amstein&layout=compact&langs_count=8&card_width=320" />
+</p>
+
+<br/>
+</details>
+
+## PackMan
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-3llam/A-3llam/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A-3llam/A-3llam/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/A-3llam/A-3llam/output/pacman-contribution-graph.svg">
+</picture>
+
