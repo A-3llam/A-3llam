@@ -150,3 +150,14 @@ Here are some ideas to get you started:
 </a>
 
 </details>
+
+## GitHub Analytics:
+
+<!-- Streak Status-->
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----
+
+<p align="center"><img src="https://streak-stats.demolab.com?user=Ad7amstein&theme=highcontrast" alt="GitHub Streak" /</p>
+
+</details>
