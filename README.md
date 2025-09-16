@@ -87,10 +87,23 @@ Here are some ideas to get you started:
 </p>
 </br>
 
-## 👨‍💻 Programming languages
+## 🛠️ My tools
+
+### 👨‍💻 Programming languages
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,java,markdown" alt="Programming Languages"/>
   </a>
+</p>
+
+
+### 🧰 Frameworks, Technologies and libraries
+
+<p align="center">
+	<a href="https://skillicons.dev">
+    	<img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,mongodb,postgres,fastapi,prometheus" alt="Frameworks and Libraries"/>
+  	</a>
+	&emsp;
+	<img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white">
 </p>
