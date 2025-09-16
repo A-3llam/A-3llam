@@ -124,3 +124,29 @@ Here are some ideas to get you started:
 	<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
 	<img alt="Colab Notebook" src="https://img.shields.io/badge/colab-notebook-yellow">
 </p>
+
+## Repos
+
+<!-- AI Repositories-->
+<details><summary><h3>🤖 AI & Data Science</h3></summary>
+
+<!-- Repo1: Deep-Facial-Recognition -->
+<a href="https://github.com/Ad7amstein/Deep-Facial-Recognition">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Deep-Facial-Recognition&theme=radical" />
+</a>
+</details>
+
+<!-- AI Repositories-->
+<details><summary><h3>BackEnd</h3></summary>
+
+<!-- Repo1: Deep-Facial-Recognition -->
+<a href="https://github.com/Ad7amstein/Deep-Facial-Recognition">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Deep-Facial-Recognition&theme=radical" />
+</a>
+
+<!-- Repo1: Deep-Facial-Recognition -->
+<a href="https://github.com/Ad7amstein/Deep-Facial-Recognition">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Deep-Facial-Recognition&theme=radical" />
+</a>
+
+</details>
