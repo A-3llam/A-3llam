@@ -1,4 +1,18 @@
-## Hi there 👋, I'm Adham Allam
+<!-- My Name -->
+<h1 align="center">Hi there 👋, I'm Adham Allam</h1>
+
+<p align="center">
+	  <img src="https://visitor-badge.laobi.icu/badge?page_id=A-3llam.A-3llam&"  />
+ 	&emsp;
+	<a href="https://user-badge.committers.top/egypt_private/Ad7amstein">
+	    <img src="https://user-badge.committers.top/egypt_private/Ad7amstein.svg" alt="committers.top badge" width=20.40%>
+	</a>
+	&emsp;
+	<img alt="GitHub followers" src="https://img.shields.io/github/followers/A-3llam">
+	&emsp;
+</p>
+
+<hr>
 
 Here are some ideas to get you started:
 
